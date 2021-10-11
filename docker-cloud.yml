@@ -1,4 +1,4 @@
-helloworld-Amit:
+helloworld:
   image: dockercloud/hello-world
   ports:
     - "80:80"
